@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tab3">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- Tambahkan konten lainnya seperti TextView, ImageView, dan Button sesuai dengan kebutuhan -->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="986dp"
+            android:layout_marginTop="345sp"
+            android:background="@color/hijau_tosca"
+            android:text="@string/ilmiah"
+            android:textColor="@color/black"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="379dp"
+            android:layout_height="267dp"
+            android:layout_marginTop="25sp"
+            android:contentDescription="@string/Alien"
+            app:srcCompat="@drawable/alien" />
+
+        <Button
+            android:id="@+id/playinter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="690sp"
+            android:layout_marginLeft="325sp"
+            android:text="@string/play"
+            android:clickable="true"
+            android:contentDescription="@string/Alien"/>
+    </FrameLayout>
+</ScrollView>

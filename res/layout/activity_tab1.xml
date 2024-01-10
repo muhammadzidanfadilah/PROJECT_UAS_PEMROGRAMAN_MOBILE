@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tab1">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- Tambahkan konten lainnya seperti TextView, ImageView, dan Button sesuai dengan kebutuhan -->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="444dp"
+            android:layout_marginTop="290sp"
+            android:background="@color/hijau_tosca"
+            android:text="@string/horror"
+            android:textColor="@color/black"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:id="@+id/sajen"
+            android:layout_width="394dp"
+            android:layout_height="335dp"
+            android:layout_marginTop="0dp"
+            android:contentDescription="@string/Sajen"
+            app:srcCompat="@drawable/sajen" />
+
+        <Button
+            android:id="@+id/playthenun"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="325sp"
+            android:layout_marginTop="690sp"
+            android:clickable="true"
+            android:contentDescription="@string/comic8"
+            android:text="@string/play" />
+    </FrameLayout>
+</ScrollView>

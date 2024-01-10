@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tab5">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!-- Tambahkan konten lainnya seperti TextView, ImageView, dan Button sesuai dengan kebutuhan -->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="385sp"
+            android:background="@color/hijau_tosca"
+            android:text="@string/aksi"
+            android:textColor="@color/black"
+            android:textSize="26sp" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="387dp"
+            android:layout_height="307dp"
+            android:layout_marginTop="45sp"
+            android:contentDescription="@string/Fast_X"
+            app:srcCompat="@drawable/fast_x" />
+
+        <Button
+            android:id="@+id/playcreator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="690sp"
+            android:layout_marginLeft="325sp"
+            android:text="@string/play"
+            android:clickable="true"
+            android:contentDescription="@string/Fast_X"/>
+    </FrameLayout>
+</ScrollView>

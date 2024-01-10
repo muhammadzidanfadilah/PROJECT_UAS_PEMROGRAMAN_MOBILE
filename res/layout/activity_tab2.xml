@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tab2">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="486dp"
+            android:layout_marginTop="290sp"
+            android:background="@color/hijau_tosca"
+            android:text="@string/komedi"
+            android:textColor="@color/black"
+            android:textSize="30sp" />
+
+        <ImageView
+            android:id="@+id/Comic8"
+            android:layout_width="249dp"
+            android:layout_height="342dp"
+            android:layout_marginTop="0dp"
+            android:contentDescription="@string/comic8"
+            app:srcCompat="@drawable/comic8" />
+
+        <Button
+            android:id="@+id/playmrbean"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="690sp"
+            android:layout_marginLeft="325sp"
+            android:text="@string/play"
+            android:clickable="true"
+            android:contentDescription="@string/comic8" />
+
+    </FrameLayout>
+
+</ScrollView>
