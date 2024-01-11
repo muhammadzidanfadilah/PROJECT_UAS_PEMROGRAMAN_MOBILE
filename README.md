@@ -1,9 +1,13 @@
 
 
 | Muhammad Zidan fadillah |
+| --- |
+
 | 312210277|
+| --- |
+
 | TI.22.A2 |
-| --- | --- |
+| --- |
 
 
 | link drive pdf laporan : |https://drive.google.com/file/d/1EU5qckS82ti0_ZTbGh9v4jDPue4PGOdd/view?usp=drivesdk |
@@ -16,6 +20,10 @@ https://github.com/muhammadzidanfadilah/PROJECT_UAS_PEMROGRAMAN_MOBILE/assets/11
 
 
 https://github.com/muhammadzidanfadilah/PROJECT_UAS_PEMROGRAMAN_MOBILE/assets/115553474/ad387bd4-5af7-4c6f-9078-8277121843e3
+
+
+
+https://github.com/muhammadzidanfadilah/PROJECT_UAS_PEMROGRAMAN_MOBILE/assets/115553474/a498a902-b4b7-4ef0-88c5-991ad0204306
 
 
 
