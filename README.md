@@ -1,3 +1,6 @@
+| link drive pdf laporan : |https://drive.google.com/file/d/1EU5qckS82ti0_ZTbGh9v4jDPue4PGOdd/view?usp=drivesdk |
+| --- | --- |
+
 # video
 
 https://github.com/muhammadzidanfadilah/PROJECT_UAS_PEMROGRAMAN_MOBILE/assets/115553474/b7263e3b-c501-4ead-9ec5-401dab376f12
