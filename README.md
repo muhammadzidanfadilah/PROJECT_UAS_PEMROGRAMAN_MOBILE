@@ -1,4 +1,14 @@
+# video
 
+https://github.com/muhammadzidanfadilah/PROJECT_UAS_PEMROGRAMAN_MOBILE/assets/115553474/b7263e3b-c501-4ead-9ec5-401dab376f12
+
+
+
+https://github.com/muhammadzidanfadilah/PROJECT_UAS_PEMROGRAMAN_MOBILE/assets/115553474/ad387bd4-5af7-4c6f-9078-8277121843e3
+
+
+
+# Foto
 ![WhatsApp Image 2024-01![WhatsApp Image 2024-01-10 at 10 02 46](https://github.com/muhammadzidanfadilah/PROJECT_UAS_PEMROGRAMAN_MOBILE/assets/115553474/68ecabbe-b51d-4721-ba2b-5c45b28cfbc5)
 -10 at 09 58 22](https://github.com/muhammadzidanfadilah/PROJECT_UAS_PEMROGRAMAN_MOBILE/assets/115553474/9787f6d3-0259-474a-b929-cefa92bdddea)
 ![WhatsApp Image 2024-01-10 at 09 58 23](https://github.com/muhammadzidanfadilah/PROJECT_UAS_PEMROGRAMAN_MOBILE/assets/115553474/13ffa64f-1952-4023-90a9-0f2c25dcf163)
@@ -9,9 +19,5 @@
 
 
 
-https://github.com/muhammadzidanfadilah/PROJECT_UAS_PEMROGRAMAN_MOBILE/assets/115553474/b7263e3b-c501-4ead-9ec5-401dab376f12
 
-
-
-https://github.com/muhammadzidanfadilah/PROJECT_UAS_PEMROGRAMAN_MOBILE/assets/115553474/ad387bd4-5af7-4c6f-9078-8277121843e3
 
