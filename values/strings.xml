@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">HelloApps2</string>
+
+    <string name="hallo">Hallo</string>
+    <string name="count">Count</string>
+    <string name="aktif2">TwoActivity</string>
+    <string name="sianida">Sianida</string>
+    <string name="alarm">Alarm</string>
+    <string name="back">Back</string>
+
+    <string name="kabarnya">Bagaimana Kabar Anda hari ini</string>
+    <string name="article_title">Kasus Sianida</string>
+    <string name="article_subtitle">ICE COLD!</string>
+    <string name="article_text">In a vault deep inside Abbey Road Studios in London — protected by an unmarked, triple-locked, police-alarmed door — are something like 400 hours of unreleased Beatles recordings, starting from June 2, 1962 and ending with the very last tracks recorded for the Let It Be album. The best of the best were released by Apple Records in the form of the 3-volume Anthology series. For more information, see the Beatles Time Capsule at www.rockument.com. \n\n This volume starts with the first new Beatle song, “Free as a Bird” (based on a John Lennon demo, found only on The Lost Lennon Tapes Vol. 28, and covers the very earliest historical recordings, outtakes from the first albums, and live recordings from early concerts and BBC Radio sessions. \n\n
+Highlights include: \n\n
+Cry for a Shadow – Many a Beatle fanatic started down the outtake road, like I did, with a first listen to this song. Originally titled “Beatle Bop” and recorded in a single session that yielded four songs (the other three featured Tony Sheridan with the Beatles as a backing band), “Cry for a Shadow” is an instrumental written by Lennon and Harrison, which makes it unique to this day. John Lennon plays rhythm guitar, George Harrison plays lead guitar, Paul McCartney plays bass, and Pete Best plays drums. The sessions were produced by Bert Kaempfert in Hamburg, Germany, during the Beatles’ second visit from April through July of 1961 to play in the Reeperbahn-section clubs. \n\n
+My Bonnie and Ain’t She Sweet — At the same session, the Beatles played on “My Bonnie” (the first-ever single with Beatles playing), as the backing band for English singer Tony Sheridan, originally a member of the Jets. The popularity of this single in Liverpool brought the Beatles to the attention of Brian Epstein, who worked in the NEMS record store and tried to meet demand for the disc. John Lennon then sings a fine “Ain’t She Sweet” (his first-ever released vocal). \n\n
+Searchin — A Jerry Leiber – Mike Stoller comedy song that was a hit for the Coasters in 1957, and a popular live favorite of the Beatles. The Coasters also had a hit with “Besame Mucho” and the Beatles covered that song as well. Ringo Starr had by now replaced Pete Best on drums. The high falsetto is George, who also plays a hesitant lead guitar. This is from their first audition for Decca Records in London on Jan 1., 1962, live in the studio. The Grateful Dead would later cover “Searchin” with a similar arrangement, Pigpen doing the Paul vocals. A live version is available on outtake records featuring the Dead joined by the Beach Boys! \n\n
+Love Me Do — An early version of the song, played a bit slower and with more of a blues feeling, and a cool bossa-nova beat in middle. Paul had to sing while John played harmonica — a first for the group. Pete Best played drums on this version. \n\n
+She Loves You – Till There Was You – Twist and Shout — Live at the Princess Wales Theatre by Leicester Square in London, attended by the Queen. “Till There Was You” (by Meredith Wilson) is from the musical The Music Man and a hit for Peggy Lee in 1961. Before playing it, Paul said it was recorded by his favorite American group, “Sophie Tucker” (which got some laughs). At the end, John tells the people in the cheaper seats to clap their hands, and the rest to “rattle your jewelry” and then announces “Twist and Shout” (a song by Bert Russell and Phil Medley that was first recorded in 1962 by the Isley Brothers). A film of the performance shows the Queen smiling at John’s remark. \n\n
+Leave My Kitten Alone — One of the lost Beatle songs recorded during the “Beatles For Sale” sessions but never released. This song, written by Little Willie John, Titus Turner, and James McDougal, was a 1959 R dan B hit for Little Willie John and covered by Johnny Preston before the Beatles tried it and shelved it. A reference to a “big fat bulldog” may have influenced John’s “Hey Bulldog” (Yellow Submarine album), which is a similar rocker. \n\n
+One After 909 — A song recorded for the ¨C11C album was actually worked on way back in the beginning, six years earlier. This take shows how they did it much more slowly, with an R dan B feel to it.</string>
+
+    <string name="btn_main">Send</string>
+    <string name="enter_msg">Enter Your Message Here</string>
+    <string name="msg_received">Message Received</string>
+    <string name="reply">Reply</string>
+    <string name="enter_reply">Enter Your Reply Here</string>
+    <string name="reply_received">Reply Received</string>
+
+    <string name="start">Start</string>
+    <string name="nols">0 Seconds</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="btn_fibo">Send</string>
+
+    <string name="toast">Toast</string>
+    <string name="cetak">Cetak</string>
+    <string name="button_label_hitung">Hitung</string>
+    <string name="Hitung_initianl_value">1</string>
+    <string name="reset">Reset</string>
+    <string name="itung">Hitung</string>
+    <string name="jum">Tombol Hitung Diklik: 0 </string>
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">1</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="angka">0</string>
+    <string name="editText_maiin">Enter Your Message Here</string>
+
+    <string name="map">Maps</string>
+    <string name="isimap">47.6,-122.3</string>
+
+    <string name="kalender">Kalender</string>
+
+    <string name="play">Play</string>
+    <string name="setim">set timer</string>
+
+    <!--    REPLY MASSAGE-->
+    <string name="button_main">Send</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="text_header">Message Received</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text_header_reply">Reply Received</string>
+
+
+    <!-- Tabs -->
+
+    <string name="tab1">Horror</string>
+    <string name="tab2">Komedi</string>
+    <string name="tab3">Ilmiah</string>
+    <string name="tab4">Persahabatan</string>
+    <string name="tab5">Aksi</string>
+
+    <string name="Sajen">Sajen</string>
+    <string name="comic8">comic8</string>
+    <string name="Alien">Alien</string>
+    <string name="Laskar_pelangi">Laskar_pelangi</string>
+    <string name="Fast_X">Fast_X</string>
+
+    <string name="tab">Fragment Tab</string>
+
+    <string name="komedi">Comic 8 \n
+      Delapan anak muda beraksi merampok bank dengan berbagai alasan dan motif berbeda. Ada yang merampok karena galau, hobi, iseng, mencari adrenalin, bahkan demi menghidupi panti asuhan dan rakyat miskin..</string>
+    <string name="romance">The Notebook (2004) \n
+        Film ini tentang seorang pria tua membacakan untuk seorang wanita tua. Mengikuti kehidupan dua kekasih, Allie dan Noah. Tapi mereka dipisahkan oleh orang tua Allie yang tidak setuju dengan Noah.</string>
+    <string name="horror">Sajen \n
+      Adanya tiga sajen di SMA Pelita Bangsa adalah sebuah misteri. Desas-desus mengatakan sajen tersebut merupakan upaya sekolah menenangkan arwah siswa yang bunuh diri karena menjadi korban bullying. Alanda (Amanda Manopo) berupaya memutus rantai bullying di sekolah. Berbeda dengan siswa lain yang pasrah saat Bianca (Steffi Zamora), Davi (Jeff Smith) dan geng mereka berlaku seenaknya, Alanda berani melawan. Misi Alanda membuat dua sahabatnya, Riza (Angga Yunanda) dan Keyra (Chantiq Schagerl), cemas. Di suatu malam, Alanda dijebak. Karena depresi, Alanda memutuskan bunuh diri. Kemarahan Alanda membuat arwahnya tidak tenang dan mendorongnya membalas dendam ke orang-orang yang telah menghancurkannya..</string>
+    <string name="ilmiah">Alien \n
+   Sebuah tim penyelamat menjawab panggilan darurat dan mendarat di planet asing untuk mencari sejumlah korban. Ternyata, di sana mereka harus berhadapan dengan makhluk luar angkasa yang menyeramkan..</string>
+    <string name="sahabat">Laskar_pelangi \n
+       Novel Laskar Pelangi menceritakan kisah kehdiuoan 10 anak hebat yang memiliki semangat juang untuk tetap bersekolah di kampung Gantung, Kepulauan Bangka Belitung. Kesepuluh anak itu dinamai Laskar Pelangi, dan diantarnya bernama Ikal, Lintang, Sahara Aulia Fadillah, Mahar Ahlan, Syahdan Noor Aziz, Muhammad Jundullah Gufron Nur Zaman atau A kiong, Samson atau Borek, Mukharam Kudai Khairani, Trapani Ihsan Jamari, dan Harun Ardhili Ramadhan.</string>
+    <string name="aksi">Fast_X
+
+        elama banyak misi dan melawan rintangan yang mustahil, Dom Toretto dan keluarganya telah mengakali dan mengalahkan setiap musuh di jalan mereka. Sekarang, mereka menghadapi lawan paling mematikan yang pernah mereka hadapi: Ancaman mengerikan yang muncul dari bayang-bayang masa lalu yang dipicu oleh dendam berdarah, dan yang bertekad untuk menghancurkan keluarga ini dan menghancurkan segalanyadan semua orangyang dicintai Dom, selamanya. Dalam Fast Five 2011, Dom dan krunya mengalahkan gembong narkoba Brasil Hernan Reyes yang jahat dan memenggal kerajaannya di sebuah jembatan di Rio De Janeiro.  </string>
+
+
+    ------- Bilangan Fibonacci-------
+    <string name="toast_message">Bilangan Fibonacci</string>
+    <string name="string_button_label_count">String/button_label_count</string>
+    <string name="button_label_finish">Reset</string>
+    <string name="editeText_main">Enter Your Message Here</string>
+    <string name="APLIKASI">APLIKASI SAYA</string>
+
+</resources>
