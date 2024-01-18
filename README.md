@@ -10,7 +10,7 @@
 | --- |
 
 
-| link drive pdf laporan : |https://drive.google.com/file/d/1EU5qckS82ti0_ZTbGh9v4jDPue4PGOdd/view?usp=drivesdk |
+| link drive pdf tutorial laporan : |https://drive.google.com/file/d/1EU5qckS82ti0_ZTbGh9v4jDPue4PGOdd/view?usp=drivesdk |
 | --- | --- |
 
 # video
